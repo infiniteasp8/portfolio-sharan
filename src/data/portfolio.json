@@ -1,0 +1,20 @@
+{
+    "portfolio":[
+        {
+            "cover": "/portfolio/1/Electricdrum.png",
+            "title":"Electric Drum Machine",
+            "description":"Html, Css, JavaScript, Eventlistening",
+            "url": "infiniteasp8.github.io/electronic-drum-set/"
+        }, {
+            "cover": "/portfolio/1/Electricdrum.png",
+            "title":"Electric Drum Machine",
+            "description":"Html, Css, JavaScript, Eventlistening",
+            "url": "infiniteasp8.github.io/electronic-drum-set/"
+        }, {
+            "cover": "/portfolio/1/Electricdrum.png",
+            "title":"Electric Drum Machine",
+            "description":"Html, Css, JavaScript, Eventlistening",
+            "url": "infiniteasp8.github.io/electronic-drum-set/"
+        }
+    ]
+}
